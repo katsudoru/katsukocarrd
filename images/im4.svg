@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-131.9658"
+     inkscape:cx="-300.1562"
      inkscape:cy="385.6237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,19 +53,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.5119048,-116.48512)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222137px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="0.53908193"
-       y="166.09895"
-       id="text4555"
+    <g
+       aria-label="勇
+"
        inkscape:transform-center-x="7.4835468"
-       inkscape:transform-center-y="7.4835487"><tspan
-         sodipodi:role="line"
-         id="tspan4594"
-         x="0.53908193"
-         y="166.09895">勇</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4596"></tspan></text>
+       inkscape:transform-center-y="7.4835487"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222137px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4555">
+      <path
+         d="m 33.102124,151.1059 -1.639865,0.93706 -0.7028,2.1084 H 46.68958 l 1.874132,-2.57693 3.748264,3.04547 -1.874132,1.40559 q -1.639865,9.37066 -3.513997,11.9476 -1.639866,2.57693 -6.325195,3.27973 0.234266,-2.34267 -5.38813,-5.15387 l 0.234267,-0.93706 q 4.919596,1.17133 6.793728,1.17133 2.108399,0.23427 3.045464,-2.57693 0.937066,-3.04547 1.639866,-8.19933 H 30.290926 q -2.576931,5.6224 -5.388129,8.43359 -2.811198,2.57694 -7.730794,4.45107 -4.919597,2.1084 -11.9475913,3.04546 l -0.2342665,-0.7028 q 6.7937278,-1.87413 10.3077258,-3.74826 3.513997,-1.63987 6.325195,-4.2168 3.045464,-2.8112 4.919596,-7.26226 H 16.469203 q -3.045464,0 -5.622396,0.7028 l -2.1083979,-2.1084 H 26.776929 q 0.937066,-2.8112 1.171332,-5.62239 z m 16.867187,-1.63987 -3.279731,1.4056 V 144.7807 H 32.165058 v 2.8112 l -3.045464,0.93707 v -3.74827 h -13.35319 v 5.85666 l -3.279731,1.4056 q 0.234266,-5.85666 0.234266,-11.71332 0,-6.09093 -0.234266,-11.71333 l 3.279731,1.87414 h 14.055989 q -0.468533,-2.57693 -5.153863,-6.09093 l 0.7028,-0.7028 q 4.451063,1.17133 6.559462,2.8112 4.451063,-2.1084 9.370659,-5.15387 H 19.748934 q -3.045464,0 -5.622396,0.7028 l -2.108398,-2.1084 h 29.517578 l 2.576931,-2.10839 4.216797,4.45106 q -3.045465,-0.46853 -15.695855,5.15386 0.468533,0.46854 0.468533,1.17133 0,0.93707 -0.937066,1.87414 h 14.055989 l 1.874132,-2.34267 3.513998,2.8112 -1.874132,1.4056 q 0,11.71332 0.234266,17.10145 z M 15.766404,138.45551 v 4.91959 h 13.35319 v -4.91959 z m 16.398654,0 v 4.91959 H 46.68958 v -4.91959 z m -16.398654,-6.55946 v 5.15386 h 13.35319 v -5.15386 z m 16.398654,0 v 5.15386 H 46.68958 v -5.15386 z"
+         id="path3713"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

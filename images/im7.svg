@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-131.9658"
+     inkscape:cx="-300.1562"
      inkscape:cy="385.6237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,21 +54,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.5119048,-116.48512)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222137px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1.3408905"
-       y="166.09897"
-       id="text4555"
+    <g
+       aria-label="自
+制"
        inkscape:transform-center-x="7.4835468"
-       inkscape:transform-center-y="7.4835487"><tspan
-         sodipodi:role="line"
-         id="tspan4618"
-         x="1.3408905"
-         y="166.09897">自</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4620"
-         x="1.3408905"
-         y="241.06424">制</tspan></text>
+       inkscape:transform-center-y="7.4835487"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222137px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4555">
+      <path
+         d="m 48.896988,165.8647 q 0,2.34267 0.234266,4.68533 l -3.748263,1.4056 v -4.9196 H 17.271012 v 3.74827 l -3.748264,1.17133 q 0.234266,-3.98253 0.234266,-22.95812 0,-18.97558 -0.234266,-22.72384 l 3.748264,2.10839 h 7.027995 q 2.576931,-5.85666 3.513997,-11.24479 l 5.622396,2.57693 q -2.108399,1.17134 -4.451064,4.2168 -2.108398,2.8112 -3.045464,4.45106 h 18.975586 l 1.874132,-2.81119 4.451063,3.27973 -2.342665,1.87413 z M 17.271012,129.78766 v 10.30773 h 28.111979 v -10.30773 z m 0,11.71333 v 11.71332 h 28.111979 v -11.71332 z m 0,13.11892 v 11.01053 h 28.111979 v -11.01053 z"
+         id="path3713"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 40.697661,233.09918 q 0.234266,-4.91959 0.234266,-14.99305 0,-10.30773 -0.234266,-17.10145 l 4.919596,2.34266 -1.874132,1.4056 v 21.55252 q 0,1.63986 0.234267,4.91959 z m 10.776258,-33.73437 q 0,-3.74826 -0.234266,-7.26226 l 4.919596,2.34266 -1.639865,1.63987 v 43.80783 q 0.234266,4.9196 -4.451064,7.028 -0.468533,-3.74827 -7.730794,-4.9196 v -0.93706 q 4.451064,0.23426 6.793728,0.23426 2.342665,0 2.342665,-2.34266 z m -32.094509,5.15386 v -3.51399 q 0,-5.6224 -0.234266,-8.66786 l 4.919596,2.10839 -1.874132,1.63987 v 8.43359 h 5.388129 l 2.576932,-2.8112 4.216797,4.2168 H 22.190608 v 7.028 h 8.433594 l 2.811198,-2.8112 4.216796,4.2168 H 22.190608 v 6.32519 h 7.730794 l 1.639866,-2.34266 3.513997,2.57693 -1.874132,1.63986 v 11.47906 q 0.234267,4.2168 -4.451063,5.85666 0.468533,-2.57693 -4.919596,-4.21679 v -0.93707 q 3.513997,0.46853 4.919596,0.46853 1.639865,0 1.639865,-2.34266 v -10.77626 h -8.199327 v 16.16439 q 0,3.98253 0.234267,7.02799 l -3.279731,1.63987 q 0.234266,-7.96506 0.234266,-10.30773 v -14.52452 h -8.199327 v 16.63292 l -3.0454643,1.63987 q 0.2342665,-6.09093 0.2342665,-11.47906 0,-5.38813 -0.2342665,-10.07346 l 3.2797313,1.87413 h 7.96506 v -6.32519 h -7.730794 q -3.0454643,0 -5.6223957,0.70279 L 3.9178219,212.95227 H 19.37941 v -7.028 h -8.433593 q -2.3426653,3.98253 -4.6853302,6.55946 l -0.7027995,-0.23426 q 2.3426649,-4.9196 3.5139974,-8.66786 1.1713323,-3.74827 1.4055993,-6.3252 l 4.451063,2.34267 q -1.639865,0.7028 -3.513997,4.91959 z"
+         id="path3715"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

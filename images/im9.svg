@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-131.9658"
+     inkscape:cx="-300.1562"
      inkscape:cy="385.6237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,13 +53,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.5119048,-116.48512)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222222px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="-1.0645353"
-       y="166.36623"
-       id="text4555"><tspan
-         sodipodi:role="line"
-         id="tspan4581">義</tspan></text>
+    <g
+       aria-label="義"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97222137px;line-height:1.25;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4555">
+      <path
+         d="m 21.190781,157.93263 8.902127,-1.4056 0.234266,0.93707 q -2.342665,0.46853 -9.136393,2.1084 v 7.73079 q 0,2.8112 -0.937066,3.514 -0.937066,0.7028 -3.748264,1.63986 -0.234266,-2.57693 -6.325195,-4.21679 v -0.93707 q 4.216797,0.46854 6.090929,0.46854 2.108398,0.23426 2.108398,-1.63987 v -5.85666 q -4.216796,0.93706 -7.496527,1.87413 -3.2797311,0.93707 -4.6853301,2.1084 l -2.5769314,-4.2168 q 7.4965275,-0.46853 14.7587885,-1.63986 v -5.6224 H 9.7117233 q -3.0454644,0 -5.6223958,0.7028 l -2.1083984,-2.1084 H 18.379583 v -5.15386 q -5.622395,0.7028 -11.7133241,0.93706 v -0.93706 q 7.4965281,-0.93707 13.1189231,-2.1084 5.622396,-1.4056 8.199327,-3.04546 l 3.279731,3.98253 q -3.748264,0 -10.073459,1.17133 v 5.15386 h 12.884657 q -0.702799,-4.9196 -1.405599,-11.24479 l 5.38813,2.57693 -1.639866,1.4056 q 0,2.8112 0.7028,7.26226 h 10.541992 l 3.27973,-3.27973 4.68533,4.68533 H 37.355169 q 0.937066,5.15386 2.811198,8.66786 3.748264,-2.8112 7.027995,-7.73079 l 3.98253,3.04546 q -2.108398,0.7028 -4.216797,2.8112 -2.342665,2.1084 -5.388129,4.45106 2.108398,2.1084 4.451063,3.04547 2.342665,0.93706 4.216797,1.17133 1.874132,0.23426 2.108398,-1.17133 0.234267,-1.63987 1.405599,-6.3252 h 0.937066 q -0.468533,4.9196 -0.234266,6.79373 0.234266,1.87413 1.171332,3.27973 0.7028,1.17133 -1.874132,1.17133 -2.576931,0 -7.262261,-1.4056 -4.451063,-1.4056 -7.496528,-4.91959 -5.622395,3.27973 -15.227321,5.62239 l -0.468533,-0.93706 q 8.902126,-2.8112 14.290256,-7.028 -2.342665,-4.21679 -3.279731,-10.54199 H 21.190781 Z m 19.209852,-16.86718 q 3.982531,1.40559 5.622396,2.34266 1.874132,0.7028 2.108399,2.34267 0.468533,1.63986 -0.468533,2.57693 -0.7028,0.7028 -0.937066,0.7028 -0.937066,0 -1.639866,-1.63987 -1.405599,-2.1084 -5.153863,-5.6224 z m -13.118923,-8.4336 h -9.839193 q -3.045464,0 -5.622395,0.7028 l -2.1083987,-2.1084 H 27.28171 v -4.45106 H 13.92852 q -3.045464,0 -5.6223957,0.7028 l -2.1083984,-2.1084 H 21.425048 q -1.171333,-3.74826 -4.451064,-7.49653 l 0.7028,-0.46853 q 4.68533,1.87413 5.622396,3.04546 0.937066,1.17134 0.937066,1.87414 0,1.4056 -1.639866,3.04546 h 11.244792 q 2.108398,-4.2168 3.279731,-8.19933 l 4.451063,2.8112 q -1.874132,0.46853 -3.279731,2.1084 -1.405599,1.4056 -3.045464,3.27973 h 8.433593 l 3.513998,-3.514 4.451063,4.9196 H 30.327174 v 4.45106 h 11.010525 l 3.045465,-2.8112 3.98253,4.2168 h -18.03852 v 4.9196 h 15.461589 l 3.513997,-3.514 4.68533,4.9196 H 11.820122 q -3.0454647,0 -5.6223961,0.7028 l -2.1083984,-2.1084 H 27.28171 Z"
+         id="path3714"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
