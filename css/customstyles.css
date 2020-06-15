@@ -50,6 +50,11 @@
 
 .border_zone{
     height: 100px;
+    background-color: white;
+}
+
+.space_box{
+    background-color: white;
 }
 
 #leading_img{
