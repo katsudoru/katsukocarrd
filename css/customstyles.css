@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'lemon_milkbold';
+    src: url('lemonmilkbold-gx2b3-webfont.eot');
+    src: url('lemonmilkbold-gx2b3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lemonmilkbold-gx2b3-webfont.woff2') format('woff2'),
+         url('lemonmilkbold-gx2b3-webfont.woff') format('woff'),
+         url('lemonmilkbold-gx2b3-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lemon_milkregular';
+    src: url('lemonmilkregular-x3xe2-webfont.eot');
+    src: url('lemonmilkregular-x3xe2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lemonmilkregular-x3xe2-webfont.woff2') format('woff2'),
+         url('lemonmilkregular-x3xe2-webfont.woff') format('woff'),
+         url('lemonmilkregular-x3xe2-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'mplus-1';
+    src: url('mplus-1-regular-sub.eot');
+    src: url('mplus-1-regular-sub?#iefix') format('embedded-opentype'),
+         url('mplus-1-regular-sub.woff') format('woff'),
+         url('mplus-1-regular-sub.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.kana{
+    font-family: mplus-1;
+    text-align: center; 
+    writing-mode: vertical-lr;
+    color:white;
+    font-size: 120px;
+    padding: 0; 
+    margin: 0;
+}
+.kanabox{
+    width:150px;
+}
+.kana h1{
+    font-family: serif;
+}
+
+.border_zone{
+    height: 100px;
+}
+
+#leading_img{
+    background-image: url(../images/leadingimage.jpg);
+    display: flex;
+}
+
+.feature_img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1080px;
+}
+
+.feature_img h1{
+    font-family: lemon_milkregular;
+    font-kerning: none;
+    font-size: 120px;
+    color: white;
+}
+
+.top_cover h1{
+    font-size: 70px;
+}
+
+#leading_img h1{
+    align-self: flex-end;
+    margin-bottom: -40px;
+}
+
+#trailing_img h1{
+    margin-top: -20px;
+}
+
+@media (min-width:500px) {
+    .top_cover h1{
+        font-size: 70px;
+    }
+    #leading_img h1{
+        margin-bottom: -25px;
+    }
+    #trailing_img h1{
+    margin-top: -10px;
+    }
+}
+
+@media (min-width:800px) {
+    .top_cover h1{
+        font-size: 120px;
+    }
+    #leading_img h1{
+        margin-bottom: -40px;
+    }
+    #trailing_img h1{
+        margin-top: -20px;
+    }
+}
+#trailing_img{
+    background-image: url(../images/tailingimage.jpg);
+}
+
+#im3{
+    background-image: url(../images/feat3.jpg);
+}
+#im3 .drop_box{
+}
+
+#im4{
+    background-image: url(../images/feat4.jpg);
+}
+#im5{
+    background-image: url(../images/feat5.jpg);
+}
+#im6{
+    background-image: url(../images/feat6.jpg);
+}
+
+#im7{
+    background-image: url(../images/feat7.jpg);
+}
+
+#im8{
+    background-image: url(../images/feat8.jpg);
+}
+#im9{
+    background-image: url(../images/feat9.jpg);
+}
+
+
+#im10{
+    background-image: url(../images/feat10.jpg);
+}
