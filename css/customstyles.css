@@ -147,3 +147,104 @@
 #im10{
     background-image: url(../images/feat10.jpg);
 }
+
+ 
+.btn-circle.btn-sm { 
+    width: 30px; 
+    height: 30px; 
+    padding: 6px 0px; 
+    border-radius: 15px; 
+    font-size: 8px; 
+    text-align: center; 
+} 
+.btn-circle.btn-md { 
+    width: 50px; 
+    height: 50px; 
+    padding: 7px 10px; 
+    border-radius: 25px; 
+    font-size: 10px; 
+    text-align: center; 
+} 
+.btn-circle.btn-xl { 
+    width: 70px; 
+    height: 70px; 
+    padding: 10px 16px; 
+    border-radius: 35px; 
+    font-size: 12px; 
+    text-align: center; 
+} 
+
+.theatre{
+    background-color: black;
+}
+
+.widescreen_img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+#bgs{
+    background-image: url(../images/bgs.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#bgt{
+    background-image: url(../images/bgt.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#bgc{
+    background-image: url(../images/bgc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#bgn{
+    background-image: url(../images/bgn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#k1{
+    background-image: url(../images/k1.jpg);
+}
+
+#k2{
+    background-image: url(../images/k2.jpg);
+}
+#k3{
+    background-image: url(../images/k3.jpg);
+}
+#k4{
+    background-image: url(../images/k4.jpg);
+}
+#k5{
+    background-image: url(../images/k5.jpg);
+    height: 300vh;
+}
+#ks5{
+    background-image: url(../images/ks5.jpg);
+}
+#kd{
+    background-image: url(../images/kd.jpg);
+}
+#ksam{
+    background: rgb(108,101,255);
+    background: linear-gradient(166deg, rgba(108,101,255,1) 0%, rgba(231,111,237,1) 27%, rgba(255,144,70,1) 54%, rgba(255,195,195,1) 77%);
+    height: 500vh;
+    display: flex;
+    align-items: flex-end;
+}
+#ksam img{
+    height: auto;
+    width: 100%;
+}
